@@ -4,7 +4,7 @@
 
 One-page site for a reactive power compensation company that takes an industrial buyer from the electricity bill to measurement, equipment and a quote.
 
-**[greenplus.rs](https://greenplus.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/green-plus) · [Srpski](README.sr.md)
+**[greenplus.rs](https://greenplus.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/green-plus) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The form does most of the selling. It asks for the company, a contact person and
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 98 | 100 | 100 | 100 |
+| Mobile | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `ImageGallery`, `Organization`, `ProfessionalService`, `Service`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `ImageGallery`, `Organization`, `ProfessionalService`, `Service`.
 
 ## Screenshots
 
